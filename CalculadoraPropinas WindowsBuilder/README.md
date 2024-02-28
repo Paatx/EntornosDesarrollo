@@ -16,7 +16,14 @@ Además y para finalizar, un botón de reinicio colocado bajo el importe final, 
 ![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/41893f12-cd1d-4981-8a75-c5b6b8b37dc0)            ![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/04bc20ed-93bb-425c-b172-d1e4ed51718f)
 
 -----------------------------------------------------DETALLES TÉCNICOS-----------------------------------------------------
-Este proyecto ha sido desarrollado utilizando Eclipse IDE junto al plugin WindowBuilder. Para ejecutar el programa en Eclipse, se deberá importar desde File System desde el propio IDE: ![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/ed90881f-2dd8-46ae-a7eb-4646be500660)
+
+
+### Este proyecto ha sido desarrollado utilizando Eclipse IDE junto al plugin WindowBuilder.
+
+Para ejecutar el programa en Eclipse, se deberá importar desde File System desde el propio IDE, y posteriormente elegir la carpeta donde se han descargado los archivos de la aplicación, incluyendo las imágenes, para su óptima visualización.
+
+
+![image]![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/ad304f28-bce7-4f2d-a80c-c05fdd121e7f)
 
 
 
