@@ -30,7 +30,8 @@ Para ejecutar el programa en Eclipse, se deberá **importar desde File System**,
 Posteriormente se debe **elegir la carpeta** donde se han descargado los archivos de la aplicación, incluyendo las imágenes, para su óptima visualización.
 
 
-![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/ad304f28-bce7-4f2d-a80c-c05fdd121e7f)
+![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/5083a9b2-c498-4f47-9596-efd183bf2674)
+
 
 Tras estos pasos, estamos listos para darle a **"Finish"** y el IDE debería verse así: 
 
