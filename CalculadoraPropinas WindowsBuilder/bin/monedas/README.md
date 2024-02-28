@@ -1,1 +1,0 @@
-Clases de la aplicación.
