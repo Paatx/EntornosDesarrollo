@@ -20,13 +20,18 @@ Además y para finalizar, un botón de reinicio colocado bajo el importe final, 
 
 ### Este proyecto ha sido desarrollado utilizando Eclipse IDE junto al plugin WindowBuilder.
 
-Para ejecutar el programa en Eclipse, se deberá importar desde File System desde el propio IDE, y posteriormente elegir la carpeta donde se han descargado los archivos de la aplicación, incluyendo las imágenes, para su óptima visualización.
+Para ejecutar el programa en Eclipse, se deberá importar desde File System desde el propio IDE.
+
+Posteriormente se debe elegir la carpeta donde se han descargado los archivos de la aplicación, incluyendo las imágenes, para su óptima visualización.
 
 
-![image]![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/ad304f28-bce7-4f2d-a80c-c05fdd121e7f)
+![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/ad304f28-bce7-4f2d-a80c-c05fdd121e7f)
 
+Tras estos pasos, estamos listos para darle a "Finish" y el IDE debería verse así: 
 
+![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/253b52b3-3a1a-42d7-a44c-c8d059399134)
 
+Presionamos en el botón "Run" y la aplicación se ejecutará.
 
 
 </p>
