@@ -9,7 +9,7 @@ En el caso de querer simplemente pagar sin añadir propina, existe la opción de
 
 Además y para finalizar, un botón de reinicio colocado bajo el importe final, que vaciará los campos para dejar la aplicación lista para un nuevo uso.
 
-![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/41893f12-cd1d-4981-8a75-c5b6b8b37dc0)    ![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/04bc20ed-93bb-425c-b172-d1e4ed51718f)
+![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/41893f12-cd1d-4981-8a75-c5b6b8b37dc0)            ![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/04bc20ed-93bb-425c-b172-d1e4ed51718f)
 
 
 
