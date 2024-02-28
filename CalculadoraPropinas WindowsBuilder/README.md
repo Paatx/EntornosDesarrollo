@@ -16,7 +16,7 @@ Además y para finalizar, un botón de reinicio colocado bajo el importe final, 
 ![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/41893f12-cd1d-4981-8a75-c5b6b8b37dc0)            ![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/b2bb5fea-e108-4f5e-8b50-06162eb69b72)
 
 
------------------------------------------------------DETALLES TÉCNICOS-----------------------------------------------------
+## -----------------------------------------------------DETALLES TÉCNICOS-----------------------------------------------------
 
 
 ### Este proyecto ha sido desarrollado utilizando Eclipse IDE junto al plugin WindowBuilder.
