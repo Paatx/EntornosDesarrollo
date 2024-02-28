@@ -7,6 +7,10 @@
 
 
 Tan solo ingrese el **importe de la factura** en el campo inicial y elija el porcentaje que más le convenga:
+
+
+
+
 ![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/8a8d679a-738d-46e4-9790-ec91720be290)
 
 En el caso de querer simplemente pagar sin añadir propina, existe la opción de **0%**. Se visualizará solamente el **importe de la factura original**, incluso después de haber comprobado los demás porcentajes.
