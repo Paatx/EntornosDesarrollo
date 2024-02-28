@@ -1,4 +1,4 @@
-# A first-level heading ¡Bienvenido a la Calculadora de propinas de TipMaster!
+# ¡Bienvenido a la Calculadora de propinas de TipMaster!
 
 Con una interfaz intuitiva y sencilla, esta aplicación calculará por sus clientes qué cantidad de propina desea añadir al finalizar el servicio.
 
