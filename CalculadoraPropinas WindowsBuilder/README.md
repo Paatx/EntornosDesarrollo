@@ -2,6 +2,10 @@
   
   # ¡Bienvenido a la Calculadora de propinas de TipMaster!
 
+  
+  ![LOGOTIPMASTER](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/5126ac74-e10f-4df3-8362-a2aa5991963b)
+
+
 ### Con una interfaz intuitiva y sencilla, esta aplicación calculará por sus clientes qué cantidad de propina desea añadir al finalizar el servicio.
 
 Tan solo ingrese el importe de la factura en el campo inicial y elija el porcentaje que más se ajuste a sus necesidades:
