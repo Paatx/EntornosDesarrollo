@@ -32,6 +32,12 @@ Posteriormente se debe **elegir la carpeta** donde se han descargado los archivo
 
 ![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/5083a9b2-c498-4f47-9596-efd183bf2674)
 
+Para añadir las imágenes se debe entrar manualmente en las etiquetas y añadirlas desde la ruta de la carpeta donde se han descargado, de esta manera: 
+
+
+![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/c5763bd5-423d-4d26-a61d-c812d5dba960)
+
+
 
 Tras estos pasos, estamos listos para darle a **"Finish"** y el IDE debería verse así: 
 
