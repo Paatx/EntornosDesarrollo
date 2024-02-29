@@ -1,6 +1,6 @@
 <p align="center">
   
-  # ¡Bienvenido a la Calculadora de propinas de TipMaster! ![LOGOTIPMASTER](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/5126ac74-e10f-4df3-8362-a2aa5991963b)
+  # ¡Bienvenid@ a la Calculadora de propinas de TipMaster! ![LOGOTIPMASTER](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/5126ac74-e10f-4df3-8362-a2aa5991963b)
 
 
 ### Con una interfaz intuitiva y sencilla, esta aplicación calculará por sus clientes qué cantidad de propina desea añadir al finalizar el servicio.
