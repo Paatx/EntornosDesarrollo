@@ -35,7 +35,8 @@ Posteriormente se debe **elegir la carpeta** donde se han descargado los archivo
 Para añadir las imágenes se debe entrar manualmente en las etiquetas y añadirlas desde la ruta de la carpeta donde se han descargado, de esta manera: 
 
 
-![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/c5763bd5-423d-4d26-a61d-c812d5dba960)
+![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/25aa0b21-9273-41eb-9f6a-91431f1bbc06)
+
 
 
 
