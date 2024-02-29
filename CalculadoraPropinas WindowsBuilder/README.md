@@ -27,7 +27,7 @@ Además y para finalizar, un **botón de reinicio** colocado bajo el importe fin
 
 Para ejecutar el programa en Eclipse, se deberá **importar desde File System**, desde el propio IDE.
 
-Posteriormente se debe **elegir la carpeta** donde se han descargado los archivos de la aplicación, incluyendo las imágenes, para su óptima visualización.
+Posteriormente se debe **elegir la carpeta** donde se han descargado los archivos de la aplicación y la carpeta de destino dentro del IDE.
 
 
 ![image](https://github.com/Paatx/EntornosDesarrollo/assets/154462285/5083a9b2-c498-4f47-9596-efd183bf2674)
