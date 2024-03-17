@@ -3,5 +3,9 @@
 ## Clases:
 
 -Clase original con la fórmula errónea.
+
+
 -Clase con la fórmula corregida.
+
+
 -Clase con Prueba de test junit.
